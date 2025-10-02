@@ -1,0 +1,138 @@
+The output of the program is:-
+
+Connected to Oracle database!
+✅ Table created.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter Employee ID: 101
+Enter Employee Name: sravya
+Enter Salary: 3000.0
+Employee inserted successfully.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter Employee ID: 102
+Enter Employee Name: pavan
+Enter Salary: 5000.0
+Employee inserted successfully.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter Employee ID: 103
+Enter Employee Name: Thanuja
+Enter Salary: 6000.0
+Employee inserted successfully.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter Employee ID: 104
+Enter Employee Name: Reshma
+Enter Salary: 5000.0
+Employee inserted successfully.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter Employee ID: 105
+Enter Employee Name: Savithri
+Enter Salary: 8000.0
+Employee inserted successfully.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter Employee ID: 106
+Enter Employee Name: Anjali
+Enter Salary: 9000.0
+Employee inserted successfully.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 2
+
+--- Employee Records ---
+ID: 101, Name: sravya, Salary: 3000.0
+ID: 102, Name: pavan, Salary: 5000.0
+ID: 103, Name: Thanuja, Salary: 6000.0
+ID: 104, Name: Reshma, Salary: 5000.0
+ID: 105, Name: Savithri, Salary: 8000.0
+ID: 106, Name: Anjali, Salary: 9000.0
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 3
+Enter Employee ID to update: 104
+Enter new Salary: 9000.0
+Employee updated successfully.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 4
+Enter Employee ID to delete: 101
+Employee deleted successfully.
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 2
+
+--- Employee Records ---
+ID: 102, Name: pavan, Salary: 5000.0
+ID: 103, Name: Thanuja, Salary: 6000.0
+ID: 104, Name: Reshma, Salary: 9000.0
+ID: 105, Name: Savithri, Salary: 8000.0
+ID: 106, Name: Anjali, Salary: 9000.0
+
+==== Employee Management System ====
+1. Insert Employee
+2. View Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 5
+Exiting program...
+Connection closed.
